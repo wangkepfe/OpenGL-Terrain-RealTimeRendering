@@ -6,3 +6,9 @@ External Dependencies:
 1. GLEW
 2. SDL
 
+Scene Components:
+
+1. sky dome
+* change with day time
+* used hash noise to implement stars and remove artificial sky color border
+* reference: https://github.com/kosua20/opengl-skydome
