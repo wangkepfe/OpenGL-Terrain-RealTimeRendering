@@ -1,6 +1,10 @@
 # OpenGL-Terrain-RealTimeRendering
 course project in TSBK07, Computer Graphics in Linkoping University. After course finished, I further developed it, trying to add more advanced and tricky render techniques.
 
+## Video & Screen Shot
+
+https://youtu.be/MGzww-jvLck
+
 ## External Dependencies
 
 1. GLEW
@@ -20,7 +24,7 @@ course project in TSBK07, Computer Graphics in Linkoping University. After cours
 
 ### 3. terrain land
 * procedural generated
-* with geomipmap (terrain is subdivided into chunks, not the best implementation)
+* with geomipmap (terrain is subdivided into chunks, not the best implementation. To be improved)
 * multi textures, diffrent by height and noise map
 
 ### 4. lake
@@ -40,3 +44,28 @@ course project in TSBK07, Computer Graphics in Linkoping University. After cours
 * bone-animation
 
 ## Render Techniques
+
+### 1. Depth/Stencil Testing
+
+### 2. Alpha Blending
+
+### 3. Frame Buffers
+
+### 4. Instancing
+
+### 5. Anti Aliasing
+* MSAA, multi-sampled anti-aliasing
+
+### 6. Normal mapping
+
+### 7. Gamma Correction
+
+### 8. HDR(high dynamic range) (to do)
+
+### 9. Shadow mapping (in progress, debugging)
+
+### 8. Bloom effect (to do)
+
+### 11. SSAO(screen-space ambient occlusion) (to do)
+
+### 12. PBR(physical based rendering) (to do)
