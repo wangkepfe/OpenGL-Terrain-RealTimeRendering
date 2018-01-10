@@ -5,6 +5,9 @@ course project in TSBK07, Computer Graphics in Linkoping University. After cours
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MGzww-jvLck/0.jpg)](https://youtu.be/MGzww-jvLck)
 
+![alt text](https://github.com/wangkepfe/OpenGL-Terrain-RealTimeRendering/blob/master/screenshot1.png "screenshot1")
+![alt text](https://github.com/wangkepfe/OpenGL-Terrain-RealTimeRendering/blob/master/screenshot2.png "screenshot2")
+
 ## External Dependencies
 
 1. GLEW
