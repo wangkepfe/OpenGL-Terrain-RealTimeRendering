@@ -1,0 +1,35 @@
+#ifndef objectEnum_h
+#define objectEnum_h
+
+enum ResourceEnumModel
+{
+	MELON_OBJ,
+	PLANE_OBJ,
+	CUBE_OBJ,
+	SPHERE_OBJ,
+	BREAD_OBJ,
+};
+
+enum ResourceEnumTexture
+{
+	MELON_TGA,
+	MELON_N_TGA,
+	WATER_DUDV_TGA,
+	WATER_N_TGA,
+	BREAD_TGA,
+	BREAD_N_TGA,
+};
+
+enum ResourceEnumShader
+{
+	SIMPLE_SHADER,
+	LIGHTING_SHADER,
+	PLANE_SHADER,
+	OBJECT_SHADER,
+	POST_PROCESSING_SHADER,
+	WATER_SHADER,
+	ENVIRONMENT_SHADER,
+	GLOW_OBJECT_SHADER,
+};
+
+#endif
