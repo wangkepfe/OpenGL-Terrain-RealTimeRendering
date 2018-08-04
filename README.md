@@ -1,5 +1,5 @@
 # OpenGL-Terrain-RealTimeRendering
-course project in TSBK07, Computer Graphics in Linkoping University. After course finished, I further developed it, trying to add more advanced and tricky render techniques.
+OpenGL rendering engine for terrain simulation
 
 ## Video & Screen Shot
 
