@@ -1,7 +1,7 @@
 # OpenGL-Terrain-RealTimeRendering
 OpenGL rendering engine for terrain simulation
 
-## Video & Screen Shot
+## Video Demo & Screen Shot
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/MGzww-jvLck/0.jpg)](https://youtu.be/MGzww-jvLck)
 
@@ -39,12 +39,6 @@ OpenGL rendering engine for terrain simulation
 ### 5. plants
 * a huge number of plants by instanced rendering
 * particle system(to do)
-
-### 6. house(to do)
-* complex model with multiple materials
-
-### 7. animals(to do)
-* bone-animation
 
 ## Render Techniques
 
